@@ -19,7 +19,7 @@
     "merge-graphql-schemas": "1.7.8",
     "mongoose": "5.12.9",
     "next": "10.2.2",
-    "next-auth": "3.23.0",
+    "next-auth": "3.24.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "5.3.0",

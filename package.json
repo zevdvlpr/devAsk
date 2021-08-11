@@ -17,7 +17,7 @@
     "apollo-server-micro": "3.1.2",
     "graphql": "15.5.1",
     "merge-graphql-schemas": "1.7.8",
-    "mongoose": "5.13.5",
+    "mongoose": "5.13.6",
     "next": "11.0.1",
     "next-auth": "3.27.3",
     "react": "17.0.2",

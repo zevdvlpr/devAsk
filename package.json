@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "@apollo/client": "3.4.5",
+    "@apollo/client": "3.4.8",
     "apollo-server-micro": "3.1.2",
     "graphql": "15.5.1",
     "merge-graphql-schemas": "1.7.8",
